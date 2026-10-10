@@ -49,7 +49,8 @@
   const previous = document.getElementById("gallery-previous");
   const next = document.getElementById("gallery-next");
   const position = document.getElementById("gallery-position");
-  const screenshots = [...document.querySelectorAll('[data-gallery="park"]')];
+  const galleryLinks = [...document.querySelectorAll('[data-gallery]')];
+  let screenshots = [];
   let index = 0;
   let opener = null;
   const showShot = () => {
@@ -68,9 +69,10 @@
     document.body.classList.add("dialog-open");
   };
   if (typeof dialog.showModal === "function") {
-    screenshots.forEach((link, shotIndex) => link.addEventListener("click", event => {
+    galleryLinks.forEach(link => link.addEventListener("click", event => {
       event.preventDefault();
-      index = shotIndex;
+      screenshots = galleryLinks.filter(item => item.dataset.gallery === link.dataset.gallery);
+      index = screenshots.indexOf(link);
       openViewer(link);
     }));
   }
