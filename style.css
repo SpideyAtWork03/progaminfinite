@@ -230,3 +230,14 @@ details[open]>summary>span:last-child{color:var(--accent)}
   .case-metrics{gap:18px;grid-template-columns:1fr 1fr}.case-metrics>div:last-child{grid-column:1/-1}.case-metrics strong{font-size:32px}.case-layout{grid-template-columns:1fr;gap:28px;padding-top:28px}.case-contents{position:static;border-bottom:1px solid var(--line);padding-bottom:24px}.case-contents ol{display:grid;grid-template-columns:1fr 1fr;gap:0 20px}.case-section{scroll-margin-top:135px;margin-bottom:26px;padding-bottom:30px}.case-section h2{font-size:29px}.case-section>p{font-size:17px}.case-notes{grid-template-columns:1fr}.architecture-flow{gap:12px 18px}.case-next{display:block}.case-next .text-link{display:flex;justify-content:space-between;margin-top:15px}
 }
 @media(max-width:480px){.case-wrap{padding-inline:18px}.case-title{font-size:39px}.case-contents ol{grid-template-columns:1fr}.case-contents a{padding-block:10px}.architecture-flow{grid-template-columns:1fr}.case-metrics{gap:15px}.case-study .desktop-nav{gap:18px}.case-study .desktop-nav a{font-size:15px}.case-study-links>a{padding-inline:18px}.case-subtitle{font-size:22px}.case-metrics span{font-size:14px}.case-next .text-link{font-size:15px}}
+/* Balanstein final presentation */
+.project-focus{grid-column:1/-1;padding:23px 27px;border-top:1px solid var(--line);background:#29221e}
+.project-focus .eyebrow{margin-bottom:14px}
+.project-focus .tags{margin:0;gap:9px}
+.project-focus .tags li{font-size:14px;line-height:1.5;padding:7px 10px;max-width:100%;overflow-wrap:anywhere}
+.case-link-art{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:contain;border:1px solid var(--line);margin-bottom:8px}
+.case-visual{margin-top:30px;border:1px solid var(--line);overflow:hidden;background:#211b1a}
+.case-visual img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:contain}
+.case-visual figcaption{padding:12px 16px;font-size:14px;line-height:1.6;color:var(--soft)}
+@media(max-width:760px){.project-focus{padding:22px 24px}.case-visual{margin-top:24px}}
+@media(max-width:480px){.project-focus{padding-inline:18px}.project-focus .tags{gap:8px}.case-visual figcaption{padding:10px 12px}}
