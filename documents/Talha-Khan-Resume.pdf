@@ -5,9 +5,9 @@
 /Producer (pypdf)
 /Author (Talha Khan)
 /Title (Talha Khan \055 Senior Game Developer \055 Software Engineer)
-/Subject (Professional r\351sum\351)
-/Creator (Native PDF revision)
-/ModDate (D\07220261009212825\05300\04700\047)
+/Subject (Game development and software engineering resume)
+/Creator (Native PDF content revision)
+/ModDate (D\07220261010194903\05300\04700\047)
 >>
 endobj
 2 0 obj
@@ -25,7 +25,7 @@ endobj
 endobj
 4 0 obj
 <<
-/Annots [ 5 0 R 6 0 R 7 0 R ]
+/Annots [ 5 0 R 6 0 R 7 0 R 29 0 R ]
 /Contents 8 0 R
 /MediaBox [ 0 0 612 792 ]
 /Resources <<
@@ -80,7 +80,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 10046
+/Length 32721
 >>
 stream
 1 0 0 1 0 0 cm
@@ -152,664 +152,2759 @@ Q
 Q
 Q
 q
-1 0 0 1 36 640 cm
 1 0.415686 0.168627 rg
 n
-0 10 m
-5 15 l
-10 10 l
-5 5 l
+36 652 m
+41 657 l
+46 652 l
+41 647 l
 h
-f*
-0.086275 0.094118 0.113725 rg
+f
+Q
+q
+0.1 0.1 0.1 rg
 BT
-1 0 0 1 14 7 Tm
 /F2+0 10 Tf
-12 TL
+1 0 0 1 50 649.4121 Tm
 (PROFILE) Tj
-T*
 ET
-0.898039 0.905882 0.921569 RG
-0.7 w
+Q
+q
+0.87 0.89 0.92 RG
+0.5 w
 n
-58.06 10 m
-540 10 l
+100.06 652 m
+576 652 l
 S
 Q
 q
-1 0 0 1 36 598 cm
-q
-BT
-1 0 0 1 0 32 Tm
-14 TL
 0.231373 0.25098 0.290196 rg
+BT
 /F4+0 10 Tf
-14 TL
-(Unity\057C\043 engineer with ) Tj
-/F5+0 10 Tf
-14 TL
-(complete ownership of the game engineering lifecycle) Tj
-/F4+0 10 Tf
-14 TL
-(\054 from prototyping and architecture) Tj
-T*
-(to optimization\054 LiveOps\054 DevOps\054 testing and Android\057iOS delivery\056 Combines ) Tj
-/F5+0 10 Tf
-14 TL
-(F2P economy and monetization) Tj
-T*
-(expertise) Tj
-/F4+0 10 Tf
-14 TL
-( with hands\055on development\054 technical leadership and reviewed AI\055assisted CLI\057MCP workflows\056) Tj
-T*
+1 0 0 1 36 631.4121 Tm
+(Unity\057C\043) Tj
 ET
 Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 77.9043 631.4121 Tm
+( engineer) Tj
+ET
 Q
 q
-1 0 0 1 36 570 cm
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 122.3428 631.4121 Tm
+( owning) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 159.7061 631.4121 Tm
+( the) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 177.5332 631.4121 Tm
+( game) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 206.6836 631.4121 Tm
+( lifecycle\072) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 252.0498 631.4121 Tm
+( gameplay\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 303.8613 631.4121 Tm
+( tools\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 332.5185 631.4121 Tm
+( online) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 363.8174 631.4121 Tm
+( services\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 409.2471 631.4121 Tm
+( optimization\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 472.6699 631.4121 Tm
+( LiveOps\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 516.9375 631.4121 Tm
+( DevOps\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 36 618.4121 Tm
+(testing) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 68.1143 618.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 88.5732 618.4121 Tm
+( Android\057iOS\056) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 151.5908 618.4121 Tm
+( Hands\055on) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 201.2637 618.4121 Tm
+( leadership\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 256.2783 618.4121 Tm
+( F2P) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 277.4795 618.4121 Tm
+( economy\057monetization) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 388.6416 618.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 409.1006 618.4121 Tm
+( reviewed) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 455.5166 618.4121 Tm
+( AI) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 467.9141 618.4121 Tm
+( CLI\057MCP) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 512.6992 618.4121 Tm
+( workflows\056) Tj
+ET
+Q
+q
+0.85 0.25 0.05 rg
+BT
+/F4+0 9.2 Tf
+1 0 0 1 36 603.0191 Tm
+(Portfolio\072 spideyatwork03\056github\056io\057progaminfinite) Tj
+ET
+Q
+q
 1 0.415686 0.168627 rg
 n
-0 10 m
-5 15 l
-10 10 l
-5 5 l
+36 590 m
+41 595 l
+46 590 l
+41 585 l
 h
-f*
-0.086275 0.094118 0.113725 rg
+f
+Q
+q
+0.1 0.1 0.1 rg
 BT
-1 0 0 1 14 7 Tm
 /F2+0 10 Tf
-12 TL
+1 0 0 1 50 587.4121 Tm
 (EXPERIENCE) Tj
-T*
 ET
-0.898039 0.905882 0.921569 RG
-0.7 w
+Q
+q
+0.87 0.89 0.92 RG
+0.5 w
 n
-76.74 10 m
-540 10 l
+118.74 590 m
+576 590 l
 S
 Q
 q
-1 0 0 1 36 542 cm
-q
-BT
-1 0 0 1 0 18 Tm
-14 TL
 0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-14 TL
-(9\053 years) Tj
-/F4+0 10 Tf
-14 TL
-( in Unity\057C\043 development\073 ) Tj
-/F5+0 10 Tf
-14 TL
-(30\053 published mobile titles) Tj
-/F4+0 10 Tf
-14 TL
-(\056 Selected public games exceed ) Tj
-/F5+0 10 Tf
-14 TL
-(100M combined) Tj
-T*
-(downloads) Tj
-/F4+0 10 Tf
-14 TL
-(\056) Tj
-T*
+1 0 0 1 36 569.4121 Tm
+(9\053) Tj
 ET
 Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 49.125 569.4121 Tm
+( years) Tj
+ET
 Q
 q
-1 0 0 1 36 522 cm
-0.086275 0.094118 0.113725 rg
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 3 Tm
+/F4+0 10 Tf
+1 0 0 1 78.6465 569.4121 Tm
+( in) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 89.7891 569.4121 Tm
+( Unity\057C\043) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 134.5059 569.4121 Tm
+( development\073) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 202.0498 569.4121 Tm
+( 30\053) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 223.9639 569.4121 Tm
+( published) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 272.9238 569.4121 Tm
+( mobile) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 307.2891 569.4121 Tm
+( titles\056) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 335.4775 569.4121 Tm
+( Selected) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 379.7256 569.4121 Tm
+( public) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 411.2539 569.4121 Tm
+( games) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 445.6826 569.4121 Tm
+( exceed) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 483.2803 569.4121 Tm
+( 100M) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 511.8105 569.4121 Tm
+( combined) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 36 556.4121 Tm
+(downloads\056) Tj
+ET
+Q
+q
+0.1 0.1 0.1 rg
+BT
 /F2+0 11.3 Tf
-13.56 TL
+1 0 0 1 36 535.4257 Tm
 (Ajax Studios) Tj
-T*
 ET
+Q
+q
 0.419608 0.447059 0.501961 rg
 BT
-1 0 0 1 74.2972 3 Tm
 /F4+0 8.65 Tf
-10.38 TL
+1 0 0 1 112.2972 535.4365 Tm
 (Lahore\054 Pakistan) Tj
-T*
 ET
+Q
+q
+0.419608 0.447059 0.501961 rg
 BT
-1 0 0 1 461.3475 3 Tm
 /F4+0 8.65 Tf
-10.38 TL
+1 0 0 1 497.3475 535.4365 Tm
 (Aug 2019 \055 Present) Tj
-T*
 ET
 Q
 q
-1 0 0 1 36 507 cm
-q
+0.85 0.25 0.05 rg
 BT
-1 0 0 1 0 3.5 Tm
-13 TL
-0.721569 0.258824 0.058824 rg
 /F5+0 9.5 Tf
-13 TL
+1 0 0 1 36 521.7915 Tm
 (Technical Team Lead) Tj
+ET
+Q
+q
 0.419608 0.447059 0.501961 rg
+BT
 /F4+0 9.5 Tf
-13 TL
-( \174 Current role\073 progressed through Junior\054 Senior and Dev Lead roles) Tj
-T*
+1 0 0 1 139.0708 521.7915 Tm
+(\174 Progressed through Junior\054 Senior and Dev Lead roles) Tj
 ET
-Q
 Q
 q
-1 0 0 1 36 463 cm
-0.898039 0.905882 0.921569 RG
-0.8 w
+0.85 0.88 0.91 RG
+0.55 w
 n
-3 0 m
-537 0 l
-538.6584 0 540 1.3416 540 3 c
-540 36 l
-540 37.6584 538.6584 39 537 39 c
-3 39 l
-1.3416 39 0 37.6584 0 36 c
-0 3 l
-0 1.3416 1.3416 0 3 0 c
-h
+36 480 540 32 re
 S
-0.086275 0.094118 0.113725 rg
+Q
+q
+0.1 0.1 0.1 rg
 BT
-1 0 0 1 8 25 Tm
 /F5+0 9.6 Tf
-11.52 TL
+1 0 0 1 44 498.7156 Tm
 (Balanstein) Tj
-T*
 ET
+Q
+q
 0.419608 0.447059 0.501961 rg
 BT
-1 0 0 1 8 11 Tm
 /F4+0 8 Tf
-9.6 TL
+1 0 0 1 44 483.9297 Tm
 (Physics\055driven F2P arcade mobile game \174 Active production development\054 unreleased) Tj
-T*
 ET
-0.070588 0.082353 0.109804 rg
+Q
+q
+0.1 0.1 0.12 rg
 n
-388.6753 23 m
-414.492 23 l
-415.5976 23 416.492 23.8944 416.492 25 c
-416.492 33 l
-416.492 34.1056 415.5976 35 414.492 35 c
-388.6753 35 l
-387.5697 35 386.6753 34.1056 386.6753 33 c
-386.6753 25 l
-386.6753 23.8944 387.5697 23 388.6753 23 c
-h
-f*
+423.1726 497 29.5021 11 re
+f
+Q
+q
 1 1 1 rg
 BT
-1 0 0 1 391.6753 26.1 Tm
-/F5+0 6.3 Tf
-7.56 TL
+/F5+0 6.2 Tf
+1 0 0 1 428.1726 501.2955 Tm
 (UNITY) Tj
-T*
 ET
-0.070588 0.082353 0.109804 rg
+Q
+q
+0.1 0.1 0.12 rg
 n
-421.492 23 m
-440.9441 23 l
-442.0497 23 442.9441 23.8944 442.9441 25 c
-442.9441 33 l
-442.9441 34.1056 442.0497 35 440.9441 35 c
-421.492 35 l
-420.3864 35 419.492 34.1056 419.492 33 c
-419.492 25 l
-419.492 23.8944 420.3864 23 421.492 23 c
-h
-f*
+456.6747 497 23.2386 11 re
+f
+Q
+q
 1 1 1 rg
 BT
-1 0 0 1 424.492 26.1 Tm
-/F5+0 6.3 Tf
-7.56 TL
+/F5+0 6.2 Tf
+1 0 0 1 461.6747 501.2955 Tm
 (UGS) Tj
-T*
 ET
-0.070588 0.082353 0.109804 rg
+Q
+q
+0.1 0.1 0.12 rg
 n
-447.9441 23 m
-483.9645 23 l
-485.0701 23 485.9645 23.8944 485.9645 25 c
-485.9645 33 l
-485.9645 34.1056 485.0701 35 483.9645 35 c
-447.9441 35 l
-446.8385 35 445.9441 34.1056 445.9441 33 c
-445.9441 25 l
-445.9441 23.8944 446.8385 23 447.9441 23 c
-h
-f*
+483.9133 497 39.5438 11 re
+f
+Q
+q
 1 1 1 rg
 BT
-1 0 0 1 450.9441 26.1 Tm
-/F5+0 6.3 Tf
-7.56 TL
+/F5+0 6.2 Tf
+1 0 0 1 488.9133 501.2955 Tm
 (FIREBASE) Tj
-T*
 ET
-0.070588 0.082353 0.109804 rg
+Q
+q
+0.1 0.1 0.12 rg
 n
-490.9645 23 m
-528 23 l
-529.1056 23 530 23.8944 530 25 c
-530 33 l
-530 34.1056 529.1056 35 528 35 c
-490.9645 35 l
-489.8589 35 488.9645 34.1056 488.9645 33 c
-488.9645 25 l
-488.9645 23.8944 489.8589 23 490.9645 23 c
-h
-f*
+527.4571 497 40.5429 11 re
+f
+Q
+q
 1 1 1 rg
 BT
-1 0 0 1 493.9645 26.1 Tm
-/F5+0 6.3 Tf
-7.56 TL
+/F5+0 6.2 Tf
+1 0 0 1 532.4571 501.2955 Tm
 (ADS \053 IAP) Tj
-T*
 ET
 Q
 q
-1 0 0 1 36 432 cm
 1 0.415686 0.168627 rg
 n
-0 21.7 m
-2.5 24.2 l
-5 21.7 l
-2.5 19.2 l
+36 468 m
+38.5 470.5 l
+41 468 l
+38.5 465.5 l
 h
-f*
+f
+Q
 q
-1 0 0 1 10 0 cm
-q
-BT
-1 0 0 1 0 18 Tm
-14 TL
 0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-14 TL
-(Built Balanstein from scratch in Unity) Tj
+1 0 0 1 46 464.4121 Tm
+(Built) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 67.4795 464.4121 Tm
+( Balanstein) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 120.4824 464.4121 Tm
+( from) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 145.9512 464.4121 Tm
+( scratch) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 184.9795 464.4121 Tm
+( in) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 196.2344 464.4121 Tm
+( Unity) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
 /F4+0 10 Tf
-14 TL
-( and own its complete engineering lifecycle through current production) Tj
-T*
+1 0 0 1 224.2617 464.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 244.7207 464.4121 Tm
+( own) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 267.6211 464.4121 Tm
+( its) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 281.4053 464.4121 Tm
+( complete) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 328.1631 464.4121 Tm
+( engineering) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 387.0645 464.4121 Tm
+( lifecycle) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 429.5498 464.4121 Tm
+( through) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 469.2666 464.4121 Tm
+( current) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 506.2441 464.4121 Tm
+( production) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 451.4121 Tm
 (development\056) Tj
-T*
 ET
 Q
-Q
-Q
 q
-1 0 0 1 36 414.5 cm
-q
+0.1 0.1 0.1 rg
 BT
-1 0 0 1 0 3.5 Tm
-12.5 TL
-0.086275 0.094118 0.113725 rg
 /F2+0 9 Tf
-12.5 TL
-(GAME DESIGN \046 ECONOMY) Tj
-T*
+1 0 0 1 36 432.1709 Tm
+(GAMEPLAY\054 BOOSTERS \046 UPGRADES) Tj
 ET
 Q
-Q
 q
-1 0 0 1 36 383.5 cm
 1 0.415686 0.168627 rg
 n
-0 21.7 m
-2.5 24.2 l
-5 21.7 l
-2.5 19.2 l
+36 421 m
+38.5 423.5 l
+41 421 l
+38.5 418.5 l
 h
-f*
+f
+Q
 q
-1 0 0 1 10 0 cm
-q
-BT
-1 0 0 1 0 18 Tm
-14 TL
 0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-14 TL
-(Designed F2P economies and progression systems) Tj
-/F4+0 10 Tf
-14 TL
-( with resource sinks\054 retention and replayability mechanics\073) Tj
-T*
-(built adaptive difficulty driven by individual player\055performance data\056) Tj
-T*
+1 0 0 1 46 417.4121 Tm
+(Designed) Tj
 ET
 Q
-Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 91.7715 417.4121 Tm
+( F2P) Tj
+ET
 Q
 q
-1 0 0 1 36 352.5 cm
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 112.8506 417.4121 Tm
+( economies) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 168.4316 417.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 189.0518 417.4121 Tm
+( progression) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 249.8184 417.4121 Tm
+( with) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 272.4209 417.4121 Tm
+( resource) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 317.3232 417.4121 Tm
+( sinks\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 347.3916 417.4121 Tm
+( retention\057replayability) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 453.2803 417.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 473.7393 417.4121 Tm
+( adaptive) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 517.1719 417.4121 Tm
+( difficulty) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 404.4121 Tm
+(driven) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 75.668 404.4121 Tm
+( by) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 90.2236 404.4121 Tm
+( player) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 122.4111 404.4121 Tm
+( performance) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 186.2295 404.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 206.6885 404.4121 Tm
+( recorded) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 252.6455 404.4121 Tm
+( collision) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 294.0371 404.4121 Tm
+( events\056) Tj
+ET
+Q
+q
 1 0.415686 0.168627 rg
 n
-0 21.7 m
-2.5 24.2 l
-5 21.7 l
-2.5 19.2 l
+36 392 m
+38.5 394.5 l
+41 392 l
+38.5 389.5 l
 h
-f*
+f
+Q
 q
-1 0 0 1 10 0 cm
-q
-BT
-1 0 0 1 0 18 Tm
-14 TL
 0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-14 TL
-(Built gameplay and physics prototypes and custom level\055design tools) Tj
-/F4+0 10 Tf
-14 TL
-( supporting approximately 800 levels) Tj
-T*
-(and repeatable content creation\056) Tj
-T*
+1 0 0 1 46 388.4121 Tm
+(Implemented) Tj
 ET
 Q
-Q
-Q
 q
-1 0 0 1 36 335 cm
-q
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 3.5 Tm
-12.5 TL
-0.086275 0.094118 0.113725 rg
+/F5+0 10 Tf
+1 0 0 1 109.2617 388.4121 Tm
+( act\057checkpoint) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 184.6426 388.4121 Tm
+( orchestration\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 255.3603 388.4121 Tm
+( scheduled) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 307.3184 388.4121 Tm
+( obstacles) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 355.6582 388.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 376.1172 388.4121 Tm
+( cart) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 397.2939 388.4121 Tm
+( structures\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 450.9853 388.4121 Tm
+( polygon\055based) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 375.4121 Tm
+(collection\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 94.5742 375.4121 Tm
+( scoring\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 135.4824 375.4121 Tm
+( lives) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 159.8672 375.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 180.3262 375.4121 Tm
+( streaks\056) Tj
+ET
+Q
+q
+1 0.415686 0.168627 rg
+n
+36 363 m
+38.5 365.5 l
+41 363 l
+38.5 360.5 l
+h
+f
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 46 359.4121 Tm
+(Built) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 67.4795 359.4121 Tm
+( 18) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 80.6289 359.4121 Tm
+( custom) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 119.2129 359.4121 Tm
+( inspectors\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 176.21 359.4121 Tm
+( six) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 192.5283 359.4121 Tm
+( editor) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 223.4072 359.4121 Tm
+( windows) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 269.2715 359.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 289.8916 359.4121 Tm
+( four) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 312.4795 359.4121 Tm
+( property) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 356.835 359.4121 Tm
+( drawers) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 399.0762 359.4121 Tm
+( for) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 415.3506 359.4121 Tm
+( recording\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 466.6982 359.4121 Tm
+( assignment\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 526.7959 359.4121 Tm
+( baking) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 346.4121 Tm
+(and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 63.6465 346.4121 Tm
+( hierarchy) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 111.0146 346.4121 Tm
+( automation\073) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 169.6133 346.4121 Tm
+( added) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 202.2402 346.4121 Tm
+( snapshot) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 248.4365 346.4121 Tm
+( continuation\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 312.4746 346.4121 Tm
+( stitching) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 355.6191 346.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 376.0781 346.4121 Tm
+( thinning) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 416.7764 346.4121 Tm
+( tools) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 442.5527 346.4121 Tm
+( supporting) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 496.2978 346.4121 Tm
+( approximately) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 333.4121 Tm
+(800) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 64.8037 333.4121 Tm
+( levels\056) Tj
+ET
+Q
+q
+0.1 0.1 0.1 rg
+BT
 /F2+0 9 Tf
-12.5 TL
-(CORE ARCHITECTURE \046 PERFORMANCE) Tj
-T*
+1 0 0 1 36 314.1709 Tm
+(ARCHITECTURE \046 PERFORMANCE) Tj
 ET
 Q
-Q
 q
-1 0 0 1 36 304 cm
 1 0.415686 0.168627 rg
 n
-0 21.7 m
-2.5 24.2 l
-5 21.7 l
-2.5 19.2 l
+36 303 m
+38.5 305.5 l
+41 303 l
+38.5 300.5 l
 h
-f*
+f
+Q
 q
-1 0 0 1 10 0 cm
-q
-BT
-1 0 0 1 0 18 Tm
-14 TL
 0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-14 TL
-(Engineered Unity\057C\043 architecture and deterministic physics) Tj
-/F4+0 10 Tf
-14 TL
-( for cross\055platform behavior\073 refactored) Tj
-T*
-(production code using SOLID principles\054 design patterns and code review\056) Tj
-T*
+1 0 0 1 46 299.4121 Tm
+(Engineered) Tj
 ET
 Q
-Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 101.1123 299.4121 Tm
+( record\055and\055replay) Tj
+ET
 Q
 q
-1 0 0 1 36 273 cm
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 193.4121 299.4121 Tm
+( physics) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 233.6074 299.4121 Tm
+( with) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 256.21 299.4121 Tm
+( a) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 264.6377 299.4121 Tm
+( fixed\055step) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 316.0879 299.4121 Tm
+( clock\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 347.1133 299.4121 Tm
+( compressed) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 408.6221 299.4121 Tm
+( versioned) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 458.207 299.4121 Tm
+( binary) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 490.4727 299.4121 Tm
+( recordings\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 286.4121 Tm
+(jointed\055body) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 106.4346 286.4121 Tm
+( playback\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 154.8477 286.4121 Tm
+( checkpoint) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 210.0381 286.4121 Tm
+( snapshots) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 261.5127 286.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 281.9717 286.4121 Tm
+( recorded\055velocity) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 369.4228 286.4121 Tm
+( handoff) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 409.1934 286.4121 Tm
+( to) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 421.2734 286.4121 Tm
+( live) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 440.3799 286.4121 Tm
+( physics\056) Tj
+ET
+Q
+q
 1 0.415686 0.168627 rg
 n
-0 21.7 m
-2.5 24.2 l
-5 21.7 l
-2.5 19.2 l
+36 274 m
+38.5 276.5 l
+41 274 l
+38.5 271.5 l
 h
-f*
+f
+Q
 q
-1 0 0 1 10 0 cm
-q
-BT
-1 0 0 1 0 18 Tm
-14 TL
 0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-14 TL
-(Built animated UI across mobile aspect ratios and 28 languages) Tj
-/F4+0 10 Tf
-14 TL
-(\054 including Arabic RTL\054 with Addressables\073) Tj
-T*
-(integrated VFX and collaborated with technical artists on character animation\056) Tj
-T*
+1 0 0 1 46 270.4121 Tm
+(Applied) Tj
 ET
 Q
-Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 83.1436 270.4121 Tm
+( SOLID) Tj
+ET
 Q
 q
-1 0 0 1 36 242 cm
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 115.4971 270.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 136.1172 270.4121 Tm
+( facade\057strategy\057observer) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 263.3389 270.4121 Tm
+( patterns) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 306.3955 270.4121 Tm
+( using) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 334.8623 270.4121 Tm
+( injected) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 375.1943 270.4121 Tm
+( services\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 420.624 270.4121 Tm
+( immutable) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 472.5527 270.4121 Tm
+( results) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 507.123 270.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 527.582 270.4121 Tm
+( owned) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 257.4121 Tm
+(cancellation) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 102.8359 257.4121 Tm
+( sources\073) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 146.4395 257.4121 Tm
+( documented) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 208.7197 257.4121 Tm
+( 47) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 223.6514 257.4121 Tm
+( architecture) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 283.4853 257.4121 Tm
+( decisions\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 334.1494 257.4121 Tm
+( with) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 356.752 257.4121 Tm
+( refactoring) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 411.6836 257.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 432.1426 257.4121 Tm
+( code) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 458.6172 257.4121 Tm
+( review\056) Tj
+ET
+Q
+q
 1 0.415686 0.168627 rg
 n
-0 21.7 m
-2.5 24.2 l
-5 21.7 l
-2.5 19.2 l
+36 245 m
+38.5 247.5 l
+41 245 l
+38.5 242.5 l
 h
-f*
+f
+Q
 q
-1 0 0 1 10 0 cm
-q
-BT
-1 0 0 1 0 18 Tm
-14 TL
 0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-14 TL
-(Profiled CPU\057GPU frame time\054 memory\054 garbage collection and rendering) Tj
-/F4+0 10 Tf
-14 TL
-( against a 30\05560 FPS target on) Tj
-T*
-(devices with 3 GB RAM\073 used findings to guide optimization\056) Tj
-T*
+1 0 0 1 46 241.4121 Tm
+(Built) Tj
 ET
 Q
-Q
-Q
 q
-1 0 0 1 36 224.5 cm
-q
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 3.5 Tm
-12.5 TL
-0.086275 0.094118 0.113725 rg
+/F5+0 10 Tf
+1 0 0 1 67.4795 241.4121 Tm
+( animated) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 114.9063 241.4121 Tm
+( UI) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 127.5527 241.4121 Tm
+( for) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 143.8271 241.4121 Tm
+( mobile) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 178.1924 241.4121 Tm
+( aspect) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 212.8359 241.4121 Tm
+( ratios) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 241.9961 241.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 262.4551 241.4121 Tm
+( 28) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 277.5527 241.4121 Tm
+( languages\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 332.0937 241.4121 Tm
+( including) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 377.8701 241.4121 Tm
+( Arabic) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 411.2197 241.4121 Tm
+( RTL\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 435.458 241.4121 Tm
+( with) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 458.0605 241.4121 Tm
+( Addressables\073) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 228.4121 Tm
+(integrated) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 94.1689 228.4121 Tm
+( VFX) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 116.6055 228.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 137.0645 228.4121 Tm
+( character) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 185.0771 228.4121 Tm
+( animation) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 233.8076 228.4121 Tm
+( with) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 256.4102 228.4121 Tm
+( technical) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 302.0303 228.4121 Tm
+( artists\056) Tj
+ET
+Q
+q
+1 0.415686 0.168627 rg
+n
+36 216 m
+38.5 218.5 l
+41 216 l
+38.5 213.5 l
+h
+f
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 46 212.4121 Tm
+(Profiled) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 83.7832 212.4121 Tm
+( CPU\057GPU) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 132.5674 212.4121 Tm
+( frame) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 163.6025 212.4121 Tm
+( time\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 190.375 212.4121 Tm
+( memory\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 235.9463 212.4121 Tm
+( GC) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 253.3242 212.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 273.9443 212.4121 Tm
+( rendering) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 323.5781 212.4121 Tm
+( against) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 360.6338 212.4121 Tm
+( a) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 369.0615 212.4121 Tm
+( 30\05560) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 401.4687 212.4121 Tm
+( FPS) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 422.9873 212.4121 Tm
+( target) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 453.6855 212.4121 Tm
+( on) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 468.4023 212.4121 Tm
+( 3) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 477.3916 212.4121 Tm
+( GB) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 494.208 212.4121 Tm
+( RAM) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 519.3887 212.4121 Tm
+( devices\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 199.4121 Tm
+(using) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 71.6543 199.4121 Tm
+( findings) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 112.3623 199.4121 Tm
+( to) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 124.4424 199.4121 Tm
+( guide) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 153.6758 199.4121 Tm
+( optimization\056) Tj
+ET
+Q
+q
+0.1 0.1 0.1 rg
+BT
 /F2+0 9 Tf
-12.5 TL
-(LIVEOPS\054 BACKEND \046 MONETIZATION) Tj
-T*
+1 0 0 1 36 180.1709 Tm
+(ONLINE SERVICES \046 LIVEOPS) Tj
 ET
 Q
-Q
 q
-1 0 0 1 36 193.5 cm
 1 0.415686 0.168627 rg
 n
-0 21.7 m
-2.5 24.2 l
-5 21.7 l
-2.5 19.2 l
+36 169 m
+38.5 171.5 l
+41 169 l
+38.5 166.5 l
 h
-f*
+f
+Q
 q
-1 0 0 1 10 0 cm
-q
-BT
-1 0 0 1 0 18 Tm
-14 TL
 0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-14 TL
-(Integrated UGS and Firebase game services) Tj
-/F4+0 10 Tf
-14 TL
-( for authentication\054 Cloud Save\057Code\054 leaderboards\054 analytics\054) Tj
-T*
-(Remote Config\054 Firestore and FCM\073 modeled service costs for infrastructure planning\056) Tj
-T*
+1 0 0 1 46 165.4121 Tm
+(Implemented) Tj
 ET
 Q
-Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 109.2617 165.4121 Tm
+( Anonymous\054) Tj
+ET
 Q
 q
-1 0 0 1 36 162.5 cm
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 173.1631 165.4121 Tm
+( Unity) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 201.1904 165.4121 Tm
+( Player) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 234.2861 165.4121 Tm
+( Accounts\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 286.2734 165.4121 Tm
+( Facebook) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 336.2637 165.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 356.8838 165.4121 Tm
+( Google) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 393.8564 165.4121 Tm
+( Play) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 417.0693 165.4121 Tm
+( Games) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 453.2314 165.4121 Tm
+( authentication) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 523.1143 165.4121 Tm
+( with) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 152.4121 Tm
+(account) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 84.1299 152.4121 Tm
+( linking\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 120.5264 152.4121 Tm
+( stable) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 151.8789 152.4121 Tm
+( identity\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 192.4404 152.4121 Tm
+( conflict) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 230.3994 152.4121 Tm
+( handling) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 273.6562 152.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 294.1152 152.4121 Tm
+( cached\055session) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 372.4258 152.4121 Tm
+( restoration\073) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 429.374 152.4121 Tm
+( validated) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 475.2285 152.4121 Tm
+( Android) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 515.2773 152.4121 Tm
+( flows) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 139.4121 Tm
+(through) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 82.9043 139.4121 Tm
+( Play) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 105.7607 139.4121 Tm
+( internal) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 143.7148 139.4121 Tm
+( testing\056) Tj
+ET
+Q
+q
 1 0.415686 0.168627 rg
 n
-0 21.7 m
-2.5 24.2 l
-5 21.7 l
-2.5 19.2 l
+36 127 m
+38.5 129.5 l
+41 127 l
+38.5 124.5 l
 h
-f*
+f
+Q
 q
-1 0 0 1 10 0 cm
-q
-BT
-1 0 0 1 0 18 Tm
-14 TL
 0.231373 0.25098 0.290196 rg
-/F5+0 10 Tf
-14 TL
-(Implemented ad mediation\054 IAP and attribution integrations) Tj
-/F4+0 10 Tf
-14 TL
-( with AppLovin MAX\054 AdMob\054 Unity Ads\054 AppsFlyer) Tj
-T*
-(and Adjust\073 connected monetization analytics and A\057B testing\056) Tj
-T*
-ET
-Q
-Q
-Q
-q
-1 0 0 1 36 145 cm
-q
 BT
-1 0 0 1 0 3.5 Tm
-12.5 TL
-0.086275 0.094118 0.113725 rg
-/F2+0 9 Tf
-12.5 TL
-(LEADERSHIP \046 PRODUCTION) Tj
-T*
+/F5+0 10 Tf
+1 0 0 1 46 123.4121 Tm
+(Built) Tj
 ET
 Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 67.4795 123.4121 Tm
+( versioned) Tj
+ET
 Q
 q
-1 0 0 1 36 114 cm
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 118.2217 123.4121 Tm
+( cloud) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 147.6357 123.4121 Tm
+( persistence) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 207.1816 123.4121 Tm
+( with) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 229.7842 123.4121 Tm
+( optimistic) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 278.2754 123.4121 Tm
+( write) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 304.5596 123.4121 Tm
+( locks\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 335.1504 123.4121 Tm
+( local) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 360.1309 123.4121 Tm
+( caching\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 403.2412 123.4121 Tm
+( event\055driven) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 466.7812 123.4121 Tm
+( pending) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 110.4121 Tm
+(synchronization) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 121.2588 110.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 141.7178 110.4121 Tm
+( lifecycle) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 184.2031 110.4121 Tm
+( flushes\073) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 224.3691 110.4121 Tm
+( a) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 232.7969 110.4121 Tm
+( controlled) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 283.0557 110.4121 Tm
+( test) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 303.5195 110.4121 Tm
+( batched) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 344.9209 110.4121 Tm
+( 28) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 360.0186 110.4121 Tm
+( changes) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 403.2217 110.4121 Tm
+( into) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 423.6318 110.4121 Tm
+( one) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 444.1787 110.4121 Tm
+( cloud) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 473.1582 110.4121 Tm
+( write) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 499.4424 110.4121 Tm
+( on) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 514.1592 110.4121 Tm
+( flush\056) Tj
+ET
+Q
+q
 1 0.415686 0.168627 rg
 n
-0 21.7 m
-2.5 24.2 l
-5 21.7 l
-2.5 19.2 l
+36 98 m
+38.5 100.5 l
+41 98 l
+38.5 95.5 l
 h
-f*
+f
+Q
 q
-1 0 0 1 10 0 cm
-q
-BT
-1 0 0 1 0 18 Tm
-14 TL
 0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-14 TL
-(Grew engineering from one developer to eight) Tj
-/F4+0 10 Tf
-14 TL
-( through hiring\054 training and mentoring while remaining) Tj
-T*
-(responsible for implementation\054 architecture\054 debugging and code quality\056) Tj
-T*
+1 0 0 1 46 94.4121 Tm
+(Built) Tj
 ET
 Q
-Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 67.4795 94.4121 Tm
+( and) Tj
+ET
 Q
 q
-1 0 0 1 36 83 cm
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 88.0996 94.4121 Tm
+( tested) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 121.2393 94.4121 Tm
+( Local\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 152.875 94.4121 Tm
+( Weekly) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 191.6152 94.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 212.2354 94.4121 Tm
+( Global) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 245.5508 94.4121 Tm
+( leaderboards) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 312.2402 94.4121 Tm
+( with) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 334.8428 94.4121 Tm
+( shared) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 370.1797 94.4121 Tm
+( data\055source) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 430.7119 94.4121 Tm
+( interfaces\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 483.7393 94.4121 Tm
+( fixed) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 510.0869 94.4121 Tm
+( reusable) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 81.4121 Tm
+(rows\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 72.1035 81.4121 Tm
+( cached) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 109.8232 81.4121 Tm
+( presentation) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 171.8545 81.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 192.3135 81.4121 Tm
+( paginated) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 242.167 81.4121 Tm
+( UI\056) Tj
+ET
+Q
+q
 1 0.415686 0.168627 rg
 n
-0 21.7 m
-2.5 24.2 l
-5 21.7 l
-2.5 19.2 l
+36 69 m
+38.5 71.5 l
+41 69 l
+38.5 66.5 l
 h
-f*
+f
+Q
 q
-1 0 0 1 10 0 cm
-q
-BT
-1 0 0 1 0 18 Tm
--0.028921 Tw
-14 TL
 0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-14 TL
-(Delivered Android\057iOS builds and store releases across studio projects) Tj
-/F4+0 10 Tf
-14 TL
-(\054 coordinating internal\054 alpha and closed) Tj
-T*
-0 Tw
-(testing with QA\054 automated Unity tests and CI\057CD\056) Tj
-T*
+1 0 0 1 46 65.4121 Tm
+(Integrated) Tj
 ET
 Q
-Q
-Q
 q
-1 0 0 1 36 52 cm
-1 0.415686 0.168627 rg
-n
-0 21.7 m
-2.5 24.2 l
-5 21.7 l
-2.5 19.2 l
-h
-f*
-q
-1 0 0 1 10 0 cm
-q
-BT
-1 0 0 1 0 18 Tm
-14 TL
 0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-14 TL
-(Introduced reviewed AI\055assisted CLI and MCP workflows) Tj
-/F4+0 10 Tf
-14 TL
-(\054 applying engineering judgment and code review to) Tj
-T*
-(generated implementations and developer tooling\056) Tj
-T*
+1 0 0 1 95.9805 65.4121 Tm
+( UGS\057Firebase) Tj
 ET
 Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 165.4092 65.4121 Tm
+( services\054) Tj
+ET
 Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 212.2109 65.4121 Tm
+( analytics\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 259.7695 65.4121 Tm
+( Remote) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 298.7051 65.4121 Tm
+( Config\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 335.8633 65.4121 Tm
+( Firestore) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 380.7363 65.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 401.1953 65.4121 Tm
+( FCM\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 429.1299 65.4121 Tm
+( plus) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 451.6787 65.4121 Tm
+( local) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 476.6592 65.4121 Tm
+( notifications\073) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 52.4121 Tm
+(modeled) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 87.084 52.4121 Tm
+( service) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 124.3545 52.4121 Tm
+( costs) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 152.7041 52.4121 Tm
+( for) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 168.9785 52.4121 Tm
+( infrastructure) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 235.9219 52.4121 Tm
+( planning\056) Tj
+ET
 Q
 q
 0.898039 0.905882 0.921569 RG
@@ -1254,7 +3349,7 @@ endobj
 endobj
 28 0 obj
 <<
-/Length 12334
+/Length 37884
 >>
 stream
 1 0 0 1 0 0 cm
@@ -1263,887 +3358,3222 @@ BT
 14.4 TL
 ET
 q
-1 0 0 1 36 736 cm
 1 0.415686 0.168627 rg
 n
-0 10 m
-5 15 l
-10 10 l
-5 5 l
+36 751 m
+41 756 l
+46 751 l
+41 746 l
 h
-f*
-0.086275 0.094118 0.113725 rg
+f
+Q
+q
+0.1 0.1 0.1 rg
 BT
-1 0 0 1 14 7 Tm
 /F2+0 10 Tf
-12 TL
+1 0 0 1 50 748.4121 Tm
+(AJAX STUDIOS \055 LEADERSHIP \046 PRODUCTION) Tj
+ET
+Q
+q
+0.87 0.89 0.92 RG
+0.5 w
+n
+268.97 751 m
+576 751 l
+S
+Q
+q
+1 0.415686 0.168627 rg
+n
+36 734 m
+38.5 736.5 l
+41 734 l
+38.5 731.5 l
+h
+f
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 46 730.4121 Tm
+(Grew) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 71.7666 730.4121 Tm
+( engineering) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 132.0938 730.4121 Tm
+( from) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 157.5625 730.4121 Tm
+( one) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 178.2021 730.4121 Tm
+( developer) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 229.4863 730.4121 Tm
+( to) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 241.625 730.4121 Tm
+( eight) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 268.583 730.4121 Tm
+( through) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 308.2998 730.4121 Tm
+( hiring\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 340.5557 730.4121 Tm
+( training) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 378.8125 730.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 399.2715 730.4121 Tm
+( mentoring) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 450.0771 730.4121 Tm
+( while) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 477.6602 730.4121 Tm
+( remaining) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 527.2353 730.4121 Tm
+( hands\055on) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 717.4121 Tm
+(with) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 65.79 717.4121 Tm
+( implementation\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 144.0225 717.4121 Tm
+( architecture\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 206.7373 717.4121 Tm
+( debugging) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 260.2676 717.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 280.7266 717.4121 Tm
+( code) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 307.2012 717.4121 Tm
+( quality\056) Tj
+ET
+Q
+q
+1 0.415686 0.168627 rg
+n
+36 705 m
+38.5 707.5 l
+41 705 l
+38.5 702.5 l
+h
+f
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 46 701.4121 Tm
+(Delivered) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 92.2744 701.4121 Tm
+( Android\057iOS) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 153.9395 701.4121 Tm
+( builds) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 185.79 701.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 206.4102 701.4121 Tm
+( studio) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 239.0225 701.4121 Tm
+( store) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 266.5371 701.4121 Tm
+( releases) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 310.1113 701.4121 Tm
+( with) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 332.7139 701.4121 Tm
+( internal\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 373.5488 701.4121 Tm
+( alpha) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 402.0498 701.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 422.5088 701.4121 Tm
+( closed) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 456.6836 701.4121 Tm
+( QA\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 476.9228 701.4121 Tm
+( automated) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 530.1309 701.4121 Tm
+( Unity) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 688.4121 Tm
+(tests) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 68.9297 688.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 89.3887 688.4121 Tm
+( CI\057CD\073) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 123.334 688.4121 Tm
+( introduced) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 177.2109 688.4121 Tm
+( reviewed) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 223.627 688.4121 Tm
+( AI\055assisted) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 279.7207 688.4121 Tm
+( CLI\057MCP) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 324.5059 688.4121 Tm
+( workflows) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 376.332 688.4121 Tm
+( for) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 392.6064 688.4121 Tm
+( implementations) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 473.2363 688.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 493.6953 688.4121 Tm
+( tooling\056) Tj
+ET
+Q
+q
+1 0.415686 0.168627 rg
+n
+36 676 m
+38.5 678.5 l
+41 676 l
+38.5 673.5 l
+h
+f
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 46 672.4121 Tm
+(Implemented) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 109.2617 672.4121 Tm
+( ad) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 123.7637 672.4121 Tm
+( mediation\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 177.3428 672.4121 Tm
+( IAP) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 196.3564 672.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 216.9766 672.4121 Tm
+( attribution) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 269.6035 672.4121 Tm
+( with) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 292.2061 672.4121 Tm
+( AppLovin) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 339.7646 672.4121 Tm
+( MAX\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 368.2119 672.4121 Tm
+( AdMob\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 408.0801 672.4121 Tm
+( Unity) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 435.5557 672.4121 Tm
+( Ads\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 459.5498 672.4121 Tm
+( AppsFlyer) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 510.3262 672.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 530.7852 672.4121 Tm
+( Adjust\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 659.4121 Tm
+(connected) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 96.293 659.4121 Tm
+( to) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 108.373 659.4121 Tm
+( monetization) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 172.1084 659.4121 Tm
+( analytics) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 216.7861 659.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 237.2451 659.4121 Tm
+( A\057B) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 257.1035 659.4121 Tm
+( testing\056) Tj
+ET
+Q
+q
+1 0.415686 0.168627 rg
+n
+36 641 m
+41 646 l
+46 641 l
+41 636 l
+h
+f
+Q
+q
+0.1 0.1 0.1 rg
+BT
+/F2+0 10 Tf
+1 0 0 1 50 638.4121 Tm
 (EARLIER EXPERIENCE) Tj
-T*
 ET
-0.898039 0.905882 0.921569 RG
-0.7 w
+Q
+q
+0.87 0.89 0.92 RG
+0.5 w
 n
-117.4 10 m
-540 10 l
+159.4 641 m
+576 641 l
 S
 Q
 q
-1 0 0 1 36 722 cm
-0.086275 0.094118 0.113725 rg
+0.1 0.1 0.1 rg
 BT
-1 0 0 1 0 3 Tm
 /F2+0 11.3 Tf
-13.56 TL
+1 0 0 1 36 619.4257 Tm
 (ZEKAB International Limited) Tj
-T*
 ET
+Q
+q
 0.419608 0.447059 0.501961 rg
 BT
-1 0 0 1 158.0754 3 Tm
 /F4+0 8.65 Tf
-10.38 TL
+1 0 0 1 196.0754 619.4365 Tm
 (Rawalpindi\054 Pakistan) Tj
-T*
 ET
+Q
+q
+0.419608 0.447059 0.501961 rg
 BT
-1 0 0 1 454.3785 3 Tm
 /F4+0 8.65 Tf
-10.38 TL
+1 0 0 1 490.3785 619.4365 Tm
 (May 2018 \055 Jun 2019) Tj
-T*
 ET
 Q
 q
-1 0 0 1 36 707 cm
-q
-0.721569 0.258824 0.058824 rg
+0.85 0.25 0.05 rg
 BT
-1 0 0 1 0 3.5 Tm
 /F5+0 9.5 Tf
-13 TL
+1 0 0 1 36 605.7915 Tm
 (Game Developer) Tj
-T*
 ET
 Q
-Q
 q
-1 0 0 1 36 674 cm
 1 0.415686 0.168627 rg
 n
-0 21.7 m
-2.5 24.2 l
-5 21.7 l
-2.5 19.2 l
+36 592 m
+38.5 594.5 l
+41 592 l
+38.5 589.5 l
 h
-f*
+f
+Q
 q
-1 0 0 1 10 0 cm
-q
-BT
-1 0 0 1 0 18 Tm
-14 TL
 0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-14 TL
-(Shipped 16 Unity titles to Google Play in 13 months) Tj
-/F4+0 10 Tf
-14 TL
-( from approximately 20 prototypes\054 building gameplay\054) Tj
-T*
-(progression\054 IAP\054 ads\054 leaderboards and achievements\056) Tj
-T*
+1 0 0 1 46 588.4121 Tm
+(Shipped) Tj
 ET
 Q
-Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 85.8779 588.4121 Tm
+( 16) Tj
+ET
 Q
 q
-1 0 0 1 36 657 cm
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 99.0225 588.4121 Tm
+( Unity) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 127.0498 588.4121 Tm
+( titles) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 153.2705 588.4121 Tm
+( to) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 165.4092 588.4121 Tm
+( Google) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 202.3818 588.4121 Tm
+( Play) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 225.5947 588.4121 Tm
+( in) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 236.8496 588.4121 Tm
+( 13) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 249.96 588.4121 Tm
+( months) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 288.8369 588.4121 Tm
+( from) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 313.8711 588.4121 Tm
+( approximately) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 383.7051 588.4121 Tm
+( 20) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 398.9248 588.4121 Tm
+( prototypes\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 455.8926 588.4121 Tm
+( building) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 496.1709 588.4121 Tm
+( gameplay\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 575.4121 Tm
+(progression\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 105.375 575.4121 Tm
+( IAP\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 127.04 575.4121 Tm
+( ads\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 149.75 575.4121 Tm
+( leaderboards) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 215.0478 575.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 235.5068 575.4121 Tm
+( achievements\056) Tj
+ET
+Q
+q
 1 0.415686 0.168627 rg
 n
-0 7.7 m
-2.5 10.2 l
-5 7.7 l
-2.5 5.2 l
+36 563 m
+38.5 565.5 l
+41 563 l
+38.5 560.5 l
 h
-f*
+f
+Q
 q
-1 0 0 1 10 0 cm
-q
-BT
-1 0 0 1 0 4 Tm
-14 TL
 0.231373 0.25098 0.290196 rg
-/F4+0 10 Tf
-14 TL
-(Helped establish the studio) Tj
-(\047) Tj
-(s Unity workflow and mentored junior developers and interns\056) Tj
-T*
+BT
+/F5+0 10 Tf
+1 0 0 1 46 559.4121 Tm
+(Helped) Tj
 ET
 Q
-Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 80.3799 559.4121 Tm
+( establish) Tj
+ET
 Q
 q
-1 0 0 1 36 638 cm
-0.086275 0.094118 0.113725 rg
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 3 Tm
+/F4+0 10 Tf
+1 0 0 1 126.6689 559.4121 Tm
+( the) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 144.4961 559.4121 Tm
+( studio\047s) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 184.5889 559.4121 Tm
+( Unity) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 212.0645 559.4121 Tm
+( workflow) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 258.6123 559.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 279.0713 559.4121 Tm
+( mentored) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 327.3672 559.4121 Tm
+( junior) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 356.6055 559.4121 Tm
+( developers) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 412.2353 559.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 432.6943 559.4121 Tm
+( interns\056) Tj
+ET
+Q
+q
+0.1 0.1 0.1 rg
+BT
 /F2+0 11.3 Tf
-13.56 TL
+1 0 0 1 36 536.4257 Tm
 (Desire Studios) Tj
-T*
 ET
+Q
+q
 0.419608 0.447059 0.501961 rg
 BT
-1 0 0 1 84.8514 3 Tm
 /F4+0 8.65 Tf
-10.38 TL
+1 0 0 1 122.8514 536.4365 Tm
 (Rawalpindi\054 Pakistan) Tj
-T*
 ET
+Q
+q
+0.419608 0.447059 0.501961 rg
 BT
-1 0 0 1 460.8745 3 Tm
 /F4+0 8.65 Tf
-10.38 TL
+1 0 0 1 496.8745 536.4365 Tm
 (Jul 2017 \055 Apr 2018) Tj
-T*
 ET
 Q
 q
-1 0 0 1 36 623 cm
-q
+0.85 0.25 0.05 rg
 BT
-1 0 0 1 0 3.5 Tm
-13 TL
-0.721569 0.258824 0.058824 rg
 /F5+0 9.5 Tf
-13 TL
+1 0 0 1 36 522.7915 Tm
 (Game Developer) Tj
+ET
+Q
+q
 0.419608 0.447059 0.501961 rg
+BT
 /F4+0 9.5 Tf
-13 TL
-( \174 promoted from Intern) Tj
-T*
+1 0 0 1 117.3943 522.7915 Tm
+(\174 Promoted from Intern) Tj
 ET
 Q
-Q
 q
-1 0 0 1 36 590 cm
 1 0.415686 0.168627 rg
 n
-0 21.7 m
-2.5 24.2 l
-5 21.7 l
-2.5 19.2 l
+36 509 m
+38.5 511.5 l
+41 509 l
+38.5 506.5 l
 h
-f*
+f
+Q
 q
-1 0 0 1 10 0 cm
-q
-BT
-1 0 0 1 0 18 Tm
-14 TL
 0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-14 TL
-(Designed\054 developed and published 18 mobile titles) Tj
-/F4+0 10 Tf
-14 TL
-( across hyper\055casual\054 simulation and puzzle genres\054) Tj
-T*
-(handling concept\055to\055deployment engineering and device optimization with designers and artists\056) Tj
-T*
+1 0 0 1 46 505.4121 Tm
+(Designed\054) Tj
 ET
 Q
-Q
-Q
 q
-1 0 0 1 36 577 cm
-1 0.415686 0.168627 rg
-n
-0 3.7 m
-2.5 6.2 l
-5 3.7 l
-2.5 1.2 l
-h
-f*
-BT
-1 0 0 1 10 0 Tm
-14 TL
 0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-(Awarded Employee of the Month five consecutive times) Tj
-T*
-/F4+0 10 Tf
-(for the lowest crash rates in my games and creative ideas\056) Tj
+1 0 0 1 94.96 505.4121 Tm
+( developed) Tj
 ET
 Q
 q
-1 0 0 1 36 546 cm
-1 0.415686 0.168627 rg
-n
-0 3.7 m
-2.5 6.2 l
-5 3.7 l
-2.5 1.2 l
-h
-f*
-BT
-1 0 0 1 10 0 Tm
-14 TL
 0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-(Refactored and optimized code for 23 additional studio games) Tj
-/F4+0 10 Tf
-( to reduce crash rates and fatal errors\056) Tj
+1 0 0 1 148.5146 505.4121 Tm
+( and) Tj
 ET
 Q
 q
-1 0.0 0.0 1 0.0 65.507891 cm
-1 0 0 1 36 446 cm
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 169.1348 505.4121 Tm
+( published) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 219.2617 505.4121 Tm
+( 18) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 232.4111 505.4121 Tm
+( mobile) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 267.4111 505.4121 Tm
+( titles) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 293.6318 505.4121 Tm
+( across) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 328.0898 505.4121 Tm
+( hyper\055casual\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 396.1904 505.4121 Tm
+( simulation) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 447.0107 505.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 467.4697 505.4121 Tm
+( puzzle) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 501.6152 505.4121 Tm
+( genres\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 492.4121 Tm
+(handling) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 86.4443 492.4121 Tm
+( concept\055to\055deployment) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 202.1621 492.4121 Tm
+( engineering) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 261.0635 492.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 281.5225 492.4121 Tm
+( device) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 315.873 492.4121 Tm
+( optimization) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 376.415 492.4121 Tm
+( with) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 399.0176 492.4121 Tm
+( designers) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 448.3975 492.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 468.8564 492.4121 Tm
+( artists\056) Tj
+ET
+Q
+q
 1 0.415686 0.168627 rg
 n
-0 10 m
-5 15 l
-10 10 l
-5 5 l
+36 480 m
+38.5 482.5 l
+41 480 l
+38.5 477.5 l
 h
-f*
-0.086275 0.094118 0.113725 rg
+f
+Q
+q
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 14 7 Tm
+/F5+0 10 Tf
+1 0 0 1 46 476.4121 Tm
+(Awarded) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 89.7744 476.4121 Tm
+( Employee) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 140.0088 476.4121 Tm
+( of) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 152.5039 476.4121 Tm
+( the) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 170.5898 476.4121 Tm
+( Month) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 204.1934 476.4121 Tm
+( five) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 224.999 476.4121 Tm
+( consecutive) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 286.835 476.4121 Tm
+( times) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 315.9121 476.4121 Tm
+( for) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 332.1865 476.4121 Tm
+( the) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 350.0137 476.4121 Tm
+( lowest) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 383.8076 476.4121 Tm
+( crash) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 412.9043 476.4121 Tm
+( rates) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 439.4766 476.4121 Tm
+( in) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 450.6191 476.4121 Tm
+( my) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 467.8115 476.4121 Tm
+( games) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 502.2402 476.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 522.6992 476.4121 Tm
+( creative) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 46 463.4121 Tm
+(ideas\056) Tj
+ET
+Q
+q
+1 0.415686 0.168627 rg
+n
+36 451 m
+38.5 453.5 l
+41 451 l
+38.5 448.5 l
+h
+f
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 46 447.4121 Tm
+(Refactored) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 99.6328 447.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 120.2529 447.4121 Tm
+( optimized) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 170.6826 447.4121 Tm
+( code) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 197.2695 447.4121 Tm
+( for) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 213.7344 447.4121 Tm
+( 23) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 228.8467 447.4121 Tm
+( additional) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 278.9199 447.4121 Tm
+( studio) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F5+0 10 Tf
+1 0 0 1 311.5322 447.4121 Tm
+( games) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 346.459 447.4121 Tm
+( to) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 358.5391 447.4121 Tm
+( reduce) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 394.5254 447.4121 Tm
+( crash) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 423.6221 447.4121 Tm
+( rates) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 450.1943 447.4121 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 470.6533 447.4121 Tm
+( fatal) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 10 Tf
+1 0 0 1 494.0908 447.4121 Tm
+( errors\056) Tj
+ET
+Q
+q
+1 0.415686 0.168627 rg
+n
+36 428 m
+41 433 l
+46 428 l
+41 423 l
+h
+f
+Q
+q
+0.1 0.1 0.1 rg
+BT
 /F2+0 10 Tf
-12 TL
+1 0 0 1 50 425.4121 Tm
 (TECHNICAL SKILLS) Tj
-T*
 ET
-0.898039 0.905882 0.921569 RG
-0.7 w
+Q
+q
+0.87 0.89 0.92 RG
+0.5 w
 n
-106.36 10 m
-540 10 l
+148.36 428 m
+576 428 l
 S
 Q
 q
-1 0.0 0.0 1 0.0 65.507891 cm
-1 0 0 1 36 131.8 cm
-q
-1 0 0 1 0 297 cm
-q
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 3.2 Tm
-13.2 TL
-0.086275 0.094118 0.113725 rg
 /F5+0 10 Tf
-13.2 TL
+1 0 0 1 36 407.4121 Tm
 (Unity \046 Gameplay) Tj
-T*
 ET
 Q
-Q
-q
-1 0 0 1 0 248 cm
 q
 0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 38.5 Tm
-/F4+0 9.5 Tf
-12 TL
-(Unity 2D\0573D\054 C\043\054 gameplay architecture\054 deterministic) Tj
-T*
-(physics\054 ScriptableObjects\054 custom controllers\054 Input) Tj
-T*
-(System\054 Blend Trees\054 pooling\054 save\057load\054 prototyping\054) Tj
-T*
-(Netcode) Tj
-T*
+/F4+0 9.7 Tf
+1 0 0 1 36 394.6397 Tm
+(Unity) Tj
 ET
 Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 59.9232 394.6397 Tm
+( 2D\0573D\054) Tj
+ET
 Q
 q
-1 0 0 1 0 232.8 cm
-q
-0.086275 0.094118 0.113725 rg
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 3.2 Tm
+/F4+0 9.7 Tf
+1 0 0 1 94.8489 394.6397 Tm
+( C\043\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 113.6 394.6397 Tm
+( ScriptableObjects\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 200.5874 394.6397 Tm
+( custom) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 237.1992 394.6397 Tm
+( controllers\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 36 383.1397 Tm
+(Input) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 59.1843 383.1397 Tm
+( System\057EnhancedTouch\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 177.0242 383.1397 Tm
+( Blend) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 205.7737 383.1397 Tm
+( Trees\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 237.6397 383.1397 Tm
+( pooling\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 36 371.6397 Tm
+(Unity) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 59.9232 371.6397 Tm
+( Splines\057Mathematics\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 161.2096 371.6397 Tm
+( save\057load\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 211.4525 371.6397 Tm
+( Netcode) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-13.2 TL
+1 0 0 1 36 356.9121 Tm
 (Software Engineering) Tj
-T*
 ET
 Q
-Q
 q
-1 0 0 1 0 195.8 cm
-q
-BT
-1 0 0 1 0 26.5 Tm
-12 TL
 0.231373 0.25098 0.290196 rg
-/F4+0 9.5 Tf
-12 TL
-(OOP\054 SOLID\054 clean architecture\054 design patterns\054 data) Tj
-T*
-(structures \046 algorithms\054 async\057await\054 refactoring\054 code) Tj
-T*
-(review) Tj
-T*
+BT
+/F4+0 9.7 Tf
+1 0 0 1 36 344.1397 Tm
+(OOP\054) Tj
 ET
 Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 59.8237 344.1397 Tm
+( SOLID\054) Tj
+ET
 Q
 q
-1 0 0 1 0 180.6 cm
-q
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 3.2 Tm
-13.2 TL
-0.086275 0.094118 0.113725 rg
+/F4+0 9.7 Tf
+1 0 0 1 94.0769 344.1397 Tm
+( clean) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 121.5286 344.1397 Tm
+( architecture\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 182.362 344.1397 Tm
+( patterns\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 225.7752 344.1397 Tm
+( data) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 36 332.6397 Tm
+(structures\057algorithms\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 136.9359 332.6397 Tm
+( async\057await\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 197.5988 332.6397 Tm
+( dependency) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 36 321.1397 Tm
+(injection\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 77.4902 321.1397 Tm
+( cancellation\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 138.1437 321.1397 Tm
+( refactoring\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 194.2218 321.1397 Tm
+( code) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 219.9021 321.1397 Tm
+( review) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-13.2 TL
+1 0 0 1 36 306.4121 Tm
 (Graphics \046 Animation) Tj
-T*
 ET
 Q
-Q
-q
-1 0 0 1 0 143.6 cm
 q
 0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 26.5 Tm
-/F4+0 9.5 Tf
-12 TL
-(URP\057HDRP\054 Shader Graph\054 HLSL shaders\054 particle) Tj
-T*
-(systems\054 post\055processing\054 VFX\054 character animation\054) Tj
-T*
-(technical\055artist collaboration) Tj
-T*
+/F4+0 9.7 Tf
+1 0 0 1 36 293.6397 Tm
+(URP\057HDRP\054) Tj
 ET
 Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 88.5922 293.6397 Tm
+( Shader) Tj
+ET
 Q
 q
-1 0 0 1 0 128.4 cm
-q
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 3.2 Tm
-13.2 TL
-0.086275 0.094118 0.113725 rg
+/F4+0 9.7 Tf
+1 0 0 1 123.9726 293.6397 Tm
+( Graph\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 157.5058 293.6397 Tm
+( HLSL) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 184.6355 293.6397 Tm
+( shaders\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 226.8267 293.6397 Tm
+( particles\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 36 282.1397 Tm
+(post\055processing\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 114.1778 282.1397 Tm
+( VFX\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 138.7357 282.1397 Tm
+( character) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 185.308 282.1397 Tm
+( animation\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 36 270.6397 Tm
+(technical\055artist) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 104.8994 270.6397 Tm
+( collaboration) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-13.2 TL
+1 0 0 1 36 255.9121 Tm
 (UI \046 Localization) Tj
-T*
 ET
 Q
-Q
-q
-1 0 0 1 0 103.4 cm
 q
 0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 14.5 Tm
-/F4+0 9.5 Tf
-12 TL
-(uGUI\054 pixel\055perfect and animated UI\054 Canvas\057Sprite Atlas) Tj
-T*
-(optimization\054 aspect ratios\054 localization\054 Arabic RTL) Tj
-T*
+/F4+0 9.7 Tf
+1 0 0 1 36 243.1397 Tm
+(uGUI\054) Tj
 ET
 Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 61.5904 243.1397 Tm
+( pixel\055perfect) Tj
+ET
 Q
 q
-1 0 0 1 0 88.2 cm
-q
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 3.2 Tm
-13.2 TL
-0.086275 0.094118 0.113725 rg
+/F4+0 9.7 Tf
+1 0 0 1 123.5747 243.1397 Tm
+( animated) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 168.5414 243.1397 Tm
+( UI\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 183.8871 243.1397 Tm
+( Canvas\057Sprite) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 251.3845 243.1397 Tm
+( Atlas) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 36 231.6397 Tm
+(optimization\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 94.792 231.6397 Tm
+( aspect) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 128.3963 231.6397 Tm
+( ratios\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 159.4761 231.6397 Tm
+( localization\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 216.7241 231.6397 Tm
+( Arabic) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 249.0732 231.6397 Tm
+( RTL\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 36 220.1397 Tm
+(virtualized) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 83.458 220.1397 Tm
+( lists) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-13.2 TL
+1 0 0 1 36 205.4121 Tm
 (Profiling \046 Diagnostics) Tj
-T*
 ET
 Q
-Q
-q
-1 0 0 1 0 51.2 cm
 q
 0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 26.5 Tm
-/F4+0 9.5 Tf
-12 TL
-(Unity Profiler\054 CPU\057GPU and device profiling\054) Tj
-T*
-(frame\055time\057FPS\054 memory management\054 GC\057draw\055call) Tj
-T*
-(reduction\054 Android logcat\054 device debugging) Tj
-T*
+/F4+0 9.7 Tf
+1 0 0 1 36 192.6397 Tm
+(Unity) Tj
 ET
 Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 59.9232 192.6397 Tm
+( Profiler\054) Tj
+ET
 Q
 q
-1 0 0 1 0 36 cm
-q
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 3.2 Tm
-13.2 TL
-0.086275 0.094118 0.113725 rg
+/F4+0 9.7 Tf
+1 0 0 1 98.7042 192.6397 Tm
+( CPU\057GPU\057device) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 180.1644 192.6397 Tm
+( profiling\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 223.4118 192.6397 Tm
+( frame) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 36 181.1397 Tm
+(time\057FPS\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 80.1094 181.1397 Tm
+( memory\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 123.2005 181.1397 Tm
+( GC\057draw\055call) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 186.871 181.1397 Tm
+( reduction\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 235.9867 181.1397 Tm
+( Android) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 36 169.6397 Tm
+(logcat\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 67.0703 169.6397 Tm
+( device) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 100.3904 169.6397 Tm
+( debugging) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-13.2 TL
+1 0 0 1 36 154.9121 Tm
 (Testing \046 QA) Tj
-T*
 ET
 Q
-Q
-q
-1 0 0 1 0 -1 cm
 q
 0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 26.5 Tm
-/F4+0 9.5 Tf
-12 TL
-(Unity Test Framework\054 automated tests\054) Tj
-T*
-(internal\057alpha\057closed testing\054 cross\055platform and device) Tj
-T*
-(validation\054 bug tracking\054 pre\055release QA) Tj
-T*
+/F4+0 9.7 Tf
+1 0 0 1 36 142.1397 Tm
+(Unity) Tj
 ET
 Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 59.9232 142.1397 Tm
+( Test) Tj
+ET
 Q
 q
-1 0 0 1 281 297 cm
-q
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 3.2 Tm
-13.2 TL
-0.086275 0.094118 0.113725 rg
+/F4+0 9.7 Tf
+1 0 0 1 82.8612 142.1397 Tm
+( Framework\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 140.0903 142.1397 Tm
+( automated) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 191.702 142.1397 Tm
+( tests\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 36 130.6397 Tm
+(internal\057alpha\057closed) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 132.4174 130.6397 Tm
+( testing\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 169.0908 130.6397 Tm
+( cross\055platform\057device) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 36 119.1397 Tm
+(validation\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 82.847 119.1397 Tm
+( bug) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 103.199 119.1397 Tm
+( tracking\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 145.8875 119.1397 Tm
+( pre\055release) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 201.8567 119.1397 Tm
+( QA) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-13.2 TL
+1 0 0 1 318 407.4121 Tm
 (LiveOps \046 Backend) Tj
-T*
 ET
 Q
-Q
-q
-1 0 0 1 281 260 cm
 q
 0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 26.5 Tm
-/F4+0 9.5 Tf
-12 TL
-(UGS\072 Cloud Save\054 Cloud Code\054 Auth\054 Leaderboards\054) Tj
-T*
-(Analytics\054 Remote Config\073 Firebase) Tj
-T*
-(Auth\057Firestore\057FCM\057Analytics\057Remote Config\073 REST APIs) Tj
-T*
+/F4+0 9.7 Tf
+1 0 0 1 318 394.6397 Tm
+(UGS) Tj
 ET
 Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 338.6788 394.6397 Tm
+( Auth\057Cloud) Tj
+ET
 Q
 q
-1 0 0 1 281 244.8 cm
-q
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 3.2 Tm
-13.2 TL
-0.086275 0.094118 0.113725 rg
+/F4+0 9.7 Tf
+1 0 0 1 393.1655 394.6397 Tm
+( Save\057Cloud) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 318 383.1397 Tm
+(Code\057Leaderboards\057Analytics\057Remote) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 493.623 383.1397 Tm
+( Config\073) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 529.7991 383.1397 Tm
+( Firebase) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 318 371.6397 Tm
+(Auth\057Firestore\057FCM\057Analytics\057Remote) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 492.5858 371.6397 Tm
+( Config\073) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 528.7619 371.6397 Tm
+( REST\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 318 360.1397 Tm
+(Unity) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 341.9232 360.1397 Tm
+( Mobile) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 375.5227 360.1397 Tm
+( Notifications) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-13.2 TL
+1 0 0 1 318 345.4121 Tm
 (F2P \046 Game Economies) Tj
-T*
 ET
 Q
-Q
-q
-1 0 0 1 281 207.8 cm
 q
 0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 26.5 Tm
-/F4+0 9.5 Tf
-12 TL
-(Economy design\054 resource sinks\054 progression\054 retention\054) Tj
-T*
-(replayability\054 adaptive difficulty\054 game business models\054) Tj
-T*
-(monetization analytics\054 A\057B testing) Tj
-T*
+/F4+0 9.7 Tf
+1 0 0 1 318 332.6397 Tm
+(Economy) Tj
 ET
 Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 360.6838 332.6397 Tm
+( design\054) Tj
+ET
 Q
 q
-1 0 0 1 281 192.6 cm
-q
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 3.2 Tm
-13.2 TL
-0.086275 0.094118 0.113725 rg
+/F4+0 9.7 Tf
+1 0 0 1 396.9499 332.6397 Tm
+( resource) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 440.5051 332.6397 Tm
+( sinks\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 469.6714 332.6397 Tm
+( progression\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 318 321.1397 Tm
+(retention\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 361.7305 321.1397 Tm
+( replayability\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 422.8055 321.1397 Tm
+( adaptive) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 464.9351 321.1397 Tm
+( difficulty\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 510.527 321.1397 Tm
+( game) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 318 309.6397 Tm
+(business) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 358.7703 309.6397 Tm
+( models\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 397.6698 309.6397 Tm
+( monetization) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 459.4931 309.6397 Tm
+( analytics\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 505.6249 309.6397 Tm
+( A\057B) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 524.8875 309.6397 Tm
+( testing) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-13.2 TL
+1 0 0 1 318 294.9121 Tm
 (Monetization \046 Attribution) Tj
-T*
 ET
 Q
-Q
-q
-1 0 0 1 281 167.6 cm
 q
 0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 14.5 Tm
-/F4+0 9.5 Tf
-12 TL
-(AppLovin MAX\054 AdMob\054 Unity Ads\054 ad mediation\054 SDK) Tj
-T*
-(integration\054 in\055app purchases\054 AppsFlyer\054 Adjust) Tj
-T*
+/F4+0 9.7 Tf
+1 0 0 1 318 282.1397 Tm
+(AppLovin) Tj
 ET
 Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 361.4037 282.1397 Tm
+( MAX\054) Tj
+ET
 Q
 q
-1 0 0 1 281 152.4 cm
-q
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 3.2 Tm
-13.2 TL
-0.086275 0.094118 0.113725 rg
+/F4+0 9.7 Tf
+1 0 0 1 388.9976 282.1397 Tm
+( AdMob\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 427.6697 282.1397 Tm
+( Unity) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 454.321 282.1397 Tm
+( Ads\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 477.5953 282.1397 Tm
+( ad) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 491.7096 282.1397 Tm
+( mediation\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 542.1894 282.1397 Tm
+( SDK) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 318 270.6397 Tm
+(integration\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 369.8202 270.6397 Tm
+( in\055app) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 402.4156 270.6397 Tm
+( purchases\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 455.884 270.6397 Tm
+( AppsFlyer\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 507.9315 270.6397 Tm
+( Adjust) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-13.2 TL
+1 0 0 1 318 255.9121 Tm
 (Release Pipeline \046 DevOps) Tj
-T*
 ET
 Q
-Q
-q
-1 0 0 1 281 115.4 cm
 q
 0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 26.5 Tm
-/F4+0 9.5 Tf
-12 TL
-(Android\057iOS\054 Google Play\057App Store\054 Xcode\054 Android) Tj
-T*
-(Studio\054 CI\057CD\054 Unity Cloud Build\054 Git\054 Addressables\054 Asset) Tj
-T*
-(Bundles\054 custom editor tooling) Tj
-T*
+/F4+0 9.7 Tf
+1 0 0 1 318 243.1397 Tm
+(Android\057iOS\054) Tj
 ET
 Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 376.3989 243.1397 Tm
+( Play\057App) Tj
+ET
 Q
 q
-1 0 0 1 281 100.2 cm
-q
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 3.2 Tm
-13.2 TL
-0.086275 0.094118 0.113725 rg
+/F4+0 9.7 Tf
+1 0 0 1 420.6362 243.1397 Tm
+( Store\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 450.6788 243.1397 Tm
+( IL2CPP\057ARM64\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 527.1563 243.1397 Tm
+( Xcode\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 318 231.6397 Tm
+(Android) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 354.1192 231.6397 Tm
+( Studio\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 388.8792 231.6397 Tm
+( CI\057CD\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 421.6735 231.6397 Tm
+( Unity) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 448.3248 231.6397 Tm
+( Cloud) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 477.979 231.6397 Tm
+( Build\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 506.2217 231.6397 Tm
+( Git\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 318 220.1397 Tm
+(Addressables\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 383.4229 220.1397 Tm
+( Asset) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 411.9119 220.1397 Tm
+( Bundles\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 454.3115 220.1397 Tm
+( IMGUI\057UI) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 498.7856 220.1397 Tm
+( Toolkit) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 532.603 220.1397 Tm
+( editors) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-13.2 TL
+1 0 0 1 318 205.4121 Tm
 (Supporting Languages \046 AI) Tj
-T*
 ET
 Q
-Q
-q
-1 0 0 1 281 63.2 cm
 q
 0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 26.5 Tm
-/F4+0 9.5 Tf
-12 TL
-(C\053\053\054 Python\054 Java\054 JavaScript\073 CLI\057MCP workflows with) Tj
-T*
-(Claude Code\054 Unity MCP\054 Cursor and Codex\073 reviewed) Tj
-T*
-(AI\055assisted implementation) Tj
-T*
+/F4+0 9.7 Tf
+1 0 0 1 318 192.6397 Tm
+(C\053\053\054) Tj
 ET
 Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 340.7154 192.6397 Tm
+( Python\054) Tj
+ET
 Q
 q
-1 0 0 1 281 48 cm
-q
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 3.2 Tm
-13.2 TL
-0.086275 0.094118 0.113725 rg
+/F4+0 9.7 Tf
+1 0 0 1 378.3408 192.6397 Tm
+( Java\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 405.7452 192.6397 Tm
+( JavaScript\073) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 460.1609 192.6397 Tm
+( Claude) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 495.1008 192.6397 Tm
+( Code\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 525.1196 192.6397 Tm
+( Unity) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 318 181.1397 Tm
+(MCP\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 342.8373 181.1397 Tm
+( Cursor\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 379.4207 181.1397 Tm
+( Codex\073) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 414.8674 181.1397 Tm
+( reviewed) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 459.8909 181.1397 Tm
+( AI\055assisted) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 514.3019 181.1397 Tm
+( CLI\057MCP) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 318 169.6397 Tm
+(implementation) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
 /F5+0 10 Tf
-13.2 TL
+1 0 0 1 318 154.9121 Tm
 (Leadership \046 Production) Tj
-T*
 ET
 Q
-Q
-q
-1 0 0 1 281 11 cm
 q
 0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 26.5 Tm
-/F4+0 9.5 Tf
-12 TL
-(Hiring\054 mentoring\054 technical guidance\054 Agile\057sprint) Tj
-T*
-(planning\054 code review\054 collaboration with designers\054) Tj
-T*
-(artists and QA) Tj
-T*
+/F4+0 9.7 Tf
+1 0 0 1 318 142.1397 Tm
+(Hiring\054) Tj
 ET
 Q
-Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 348.0331 142.1397 Tm
+( mentoring\054) Tj
+ET
 Q
 q
-1 0.0 0.0 1 0.0 65.507891 cm
-1 0 0 1 36 55.8 cm
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 400.109 142.1397 Tm
+( technical) Tj
+ET
+Q
 q
-1 0 0 1 0 48 cm
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 444.3605 142.1397 Tm
+( guidance\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 492.2306 142.1397 Tm
+( Agile\057sprint) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 318 130.6397 Tm
+(planning\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 360.0207 130.6397 Tm
+( code) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 385.7011 130.6397 Tm
+( review\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 421.9245 130.6397 Tm
+( collaboration) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 484.0793 130.6397 Tm
+( with) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 506.0038 130.6397 Tm
+( designers\054) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 318 119.1397 Tm
+(artists) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 346.0343 119.1397 Tm
+( and) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.7 Tf
+1 0 0 1 365.8795 119.1397 Tm
+( QA) Tj
+ET
+Q
+q
 1 0.415686 0.168627 rg
 n
-0 10 m
-5 15 l
-10 10 l
-5 5 l
+36 103 m
+41 108 l
+46 103 l
+41 98 l
 h
-f*
-0.086275 0.094118 0.113725 rg
+f
+Q
+q
+0.1 0.1 0.1 rg
 BT
-1 0 0 1 14 7 Tm
 /F2+0 10 Tf
-12 TL
+1 0 0 1 50 100.4121 Tm
 (GENRES \046 GAME MODELS) Tj
-T*
 ET
-0.898039 0.905882 0.921569 RG
-0.7 w
+Q
+q
+0.87 0.89 0.92 RG
+0.5 w
 n
-136.89 10 m
-338 10 l
+178.89 103 m
+366 103 l
 S
 Q
-1 0.956863 0.933333 rg
-1 0.815686 0.733333 RG
-n
-7.5 30 m
-76.95972 30 l
-81.10572 30 84.45972 33.354 84.45972 37.5 c
-84.45972 37.5 l
-84.45972 41.646 81.10572 45 76.95972 45 c
-7.5 45 l
-3.354 45 0 41.646 0 37.5 c
-0 37.5 l
-0 33.354 3.354 30 7.5 30 c
-h
-B*
-0.231373 0.25098 0.290196 rg
-BT
-1 0 0 1 7 34.3 Tm
-/F4+0 8.1 Tf
-9.72 TL
-(Vehicle Simulation) Tj
-T*
-ET
-1 0.956863 0.933333 rg
-1 0.815686 0.733333 RG
-n
-95.95972 30 m
-154.3887 30 l
-158.5347 30 161.8887 33.354 161.8887 37.5 c
-161.8887 37.5 l
-161.8887 41.646 158.5347 45 154.3887 45 c
-95.95972 45 l
-91.81372 45 88.45972 41.646 88.45972 37.5 c
-88.45972 37.5 l
-88.45972 33.354 91.81372 30 95.95972 30 c
-h
-B*
-0.231373 0.25098 0.290196 rg
-BT
-1 0 0 1 95.45972 34.3 Tm
-/F4+0 8.1 Tf
-9.72 TL
-(Physics Arcade) Tj
-T*
-ET
-1 0.956863 0.933333 rg
-1 0.815686 0.733333 RG
-n
-173.3887 30 m
-224.1686 30 l
-228.3146 30 231.6686 33.354 231.6686 37.5 c
-231.6686 37.5 l
-231.6686 41.646 228.3146 45 224.1686 45 c
-173.3887 45 l
-169.2427 45 165.8887 41.646 165.8887 37.5 c
-165.8887 37.5 l
-165.8887 33.354 169.2427 30 173.3887 30 c
-h
-B*
-0.231373 0.25098 0.290196 rg
-BT
-1 0 0 1 172.8887 34.3 Tm
-/F4+0 8.1 Tf
-9.72 TL
-(Hyper\055casual) Tj
-T*
-ET
-1 0.956863 0.933333 rg
-1 0.815686 0.733333 RG
-n
-243.1686 30 m
-267.7619 30 l
-271.9079 30 275.2619 33.354 275.2619 37.5 c
-275.2619 37.5 l
-275.2619 41.646 271.9079 45 267.7619 45 c
-243.1686 45 l
-239.0226 45 235.6686 41.646 235.6686 37.5 c
-235.6686 37.5 l
-235.6686 33.354 239.0226 30 243.1686 30 c
-h
-B*
-0.231373 0.25098 0.290196 rg
-BT
-1 0 0 1 242.6686 34.3 Tm
-/F4+0 8.1 Tf
-9.72 TL
-(Puzzle) Tj
-T*
-ET
-1 0.956863 0.933333 rg
-1 0.815686 0.733333 RG
-n
-7.5 10 m
-68.56704 10 l
-72.71304 10 76.06704 13.354 76.06704 17.5 c
-76.06704 17.5 l
-76.06704 21.646 72.71304 25 68.56704 25 c
-7.5 25 l
-3.354 25 0 21.646 0 17.5 c
-0 17.5 l
-0 13.354 3.354 10 7.5 10 c
-h
-B*
-0.231373 0.25098 0.290196 rg
-BT
-1 0 0 1 7 14.3 Tm
-/F4+0 8.1 Tf
-9.72 TL
-(Action \057 Shooter) Tj
-T*
-ET
-1 0.956863 0.933333 rg
-1 0.815686 0.733333 RG
-n
-87.56704 10 m
-157.9048 10 l
-162.0508 10 165.4048 13.354 165.4048 17.5 c
-165.4048 17.5 l
-165.4048 21.646 162.0508 25 157.9048 25 c
-87.56704 25 l
-83.42104 25 80.06704 21.646 80.06704 17.5 c
-80.06704 17.5 l
-80.06704 13.354 83.42104 10 87.56704 10 c
-h
-B*
-0.231373 0.25098 0.290196 rg
-BT
-1 0 0 1 87.06704 14.3 Tm
-/F4+0 8.1 Tf
-9.72 TL
-(Free\055to\055play \050F2P\051) Tj
-T*
-ET
-1 0.956863 0.933333 rg
-1 0.815686 0.733333 RG
-n
-176.9048 10 m
-222.8318 10 l
-226.9778 10 230.3318 13.354 230.3318 17.5 c
-230.3318 17.5 l
-230.3318 21.646 226.9778 25 222.8318 25 c
-176.9048 25 l
-172.7588 25 169.4048 21.646 169.4048 17.5 c
-169.4048 17.5 l
-169.4048 13.354 172.7588 10 176.9048 10 c
-h
-B*
-0.231373 0.25098 0.290196 rg
-BT
-1 0 0 1 176.4048 14.3 Tm
-/F4+0 8.1 Tf
-9.72 TL
-(Live Service) Tj
-T*
-ET
 q
-1 0 0 1 354 48 cm
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 36 83.1709 Tm
+(Vehicle) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 67.5264 83.1709 Tm
+( simulation) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 113.2646 83.1709 Tm
+( \057) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 119.0391 83.1709 Tm
+( Physics) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 154.5205 83.1709 Tm
+( arcade) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 186.4468 83.1709 Tm
+( \057) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 192.2212 83.1709 Tm
+( Hyper\055casual) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 252.2856 83.1709 Tm
+( \057) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 258.0601 83.1709 Tm
+( Puzzle) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 289.0283 83.1709 Tm
+( \057) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 294.8027 83.1709 Tm
+( Action) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 324.5229 83.1709 Tm
+( \046) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 36 71.1709 Tm
+(shooter) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 68.4448 71.1709 Tm
+( \057) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 74.2192 71.1709 Tm
+( Free\055to\055play) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 130.3682 71.1709 Tm
+( \057) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 136.1426 71.1709 Tm
+( Live) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9 Tf
+1 0 0 1 156.2476 71.1709 Tm
+( service) Tj
+ET
+Q
+q
 1 0.415686 0.168627 rg
 n
-0 10 m
-5 15 l
-10 10 l
-5 5 l
+392 103 m
+397 108 l
+402 103 l
+397 98 l
 h
-f*
-0.086275 0.094118 0.113725 rg
+f
+Q
+q
+0.1 0.1 0.1 rg
 BT
-1 0 0 1 14 7 Tm
 /F2+0 10 Tf
-12 TL
+1 0 0 1 406 100.4121 Tm
 (EDUCATION) Tj
-T*
 ET
-0.898039 0.905882 0.921569 RG
-0.7 w
+Q
+q
+0.87 0.89 0.92 RG
+0.5 w
 n
-73.68 10 m
-186 10 l
+471.68 103 m
+576 103 l
 S
 Q
 q
-1 0 0 1 354 31 cm
-q
-0.086275 0.094118 0.113725 rg
+0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 4 Tm
-/F5+0 10 Tf
-14 TL
+/F5+0 9.5 Tf
+1 0 0 1 392 82.7915 Tm
 (Riphah International University) Tj
-T*
 ET
 Q
-Q
-q
-1 0 0 1 354 15 cm
 q
 0.231373 0.25098 0.290196 rg
 BT
-1 0 0 1 0 4 Tm
-/F4+0 10 Tf
-14 TL
-(BS \050Hons\051 Software Engineering) Tj
-T*
+/F4+0 9.5 Tf
+1 0 0 1 392 68.7915 Tm
+(BS) Tj
 ET
 Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.5 Tf
+1 0 0 1 404.311 68.7915 Tm
+( \050Hons\051) Tj
+ET
 Q
 q
-1 0 0 1 354 1.5 cm
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.5 Tf
+1 0 0 1 437.2966 68.7915 Tm
+( Software) Tj
+ET
+Q
+q
+0.231373 0.25098 0.290196 rg
+BT
+/F4+0 9.5 Tf
+1 0 0 1 480.6079 68.7915 Tm
+( Engineering) Tj
+ET
+Q
 q
 0.419608 0.447059 0.501961 rg
 BT
-1 0 0 1 0 3.2 Tm
-/F4+0 8.3 Tf
-11.5 TL
+/F4+0 8.8 Tf
+1 0 0 1 392 55.3227 Tm
 (Islamabad\054 Pakistan \174 2013 \055 2017) Tj
-T*
 ET
-Q
-Q
 Q
 q
 0.898039 0.905882 0.921569 RG
@@ -2171,43 +6601,58 @@ Q
 
 endstream
 endobj
+29 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 36 600 254.6707 612 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057spideyatwork03\056github\056io\057progaminfinite\057)
+>>
+/P 4 0 R
+>>
+endobj
 xref
-0 29
+0 30
 0000000000 65535 f 
 0000000015 00000 n 
-0000000260 00000 n 
-0000000326 00000 n 
-0000000375 00000 n 
-0000000594 00000 n 
-0000000761 00000 n 
-0000000940 00000 n 
-0000001160 00000 n 
-0000011259 00000 n 
-0000011343 00000 n 
-0000011451 00000 n 
-0000012145 00000 n 
-0000012375 00000 n 
-0000023469 00000 n 
-0000024222 00000 n 
-0000024918 00000 n 
-0000025145 00000 n 
-0000036583 00000 n 
-0000037339 00000 n 
-0000038658 00000 n 
-0000038912 00000 n 
-0000052119 00000 n 
-0000052868 00000 n 
-0000054189 00000 n 
-0000054450 00000 n 
-0000067741 00000 n 
-0000068492 00000 n 
-0000068683 00000 n 
+0000000291 00000 n 
+0000000357 00000 n 
+0000000406 00000 n 
+0000000632 00000 n 
+0000000799 00000 n 
+0000000978 00000 n 
+0000001198 00000 n 
+0000033972 00000 n 
+0000034056 00000 n 
+0000034164 00000 n 
+0000034858 00000 n 
+0000035088 00000 n 
+0000046182 00000 n 
+0000046935 00000 n 
+0000047631 00000 n 
+0000047858 00000 n 
+0000059296 00000 n 
+0000060052 00000 n 
+0000061371 00000 n 
+0000061625 00000 n 
+0000074832 00000 n 
+0000075581 00000 n 
+0000076902 00000 n 
+0000077163 00000 n 
+0000090454 00000 n 
+0000091205 00000 n 
+0000091396 00000 n 
+0000129334 00000 n 
 trailer
 <<
-/Size 29
+/Size 30
 /Root 3 0 R
 /Info 1 0 R
 >>
 startxref
-81071
+129549
 %%EOF
